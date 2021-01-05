@@ -1,0 +1,17 @@
+name, quantity, cost, gradeLevel, category
+Math 1, 15, 12.95, 1, math
+Math 2, 15, 12.95, 2, math
+Math 3, 15, 12.95, 3, math
+Math Workbook 1, 15, 10.95, 1, math
+Math Workbook 2, 15, 10.95, 2, math
+Math Workbook 3, 15, 10.95, 3, math
+Biology, 15, 35.45, 9, science
+Advanced Biology, 15, 35.45, 10, science
+Chemistry, 15, 45.95, 10, science
+Advanced Chemistry, 15, 49.95, 11, science
+US History 1, 15, 39.95, 9, history
+US History 2, 15, 39.95, 10, history
+Introduction to World Literature, 15, 47.79, 10, language arts
+Introduction to British Literature, 15, 47.79, 11, language arts
+Introduction to American Literature, 15, 49.79, 12, language arts
+

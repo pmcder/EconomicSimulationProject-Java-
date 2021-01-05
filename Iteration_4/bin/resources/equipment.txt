@@ -1,0 +1,8 @@
+name, quantity, cost, category
+Microscope X, 12, 139.95, science
+Microscope Y, 12, 159.95, science
+Biology Experiments Kit, 12, 145.45, science
+Chemistry Experiments Kit, 12, 125.45, science
+Physics Experiments Kit, 12, 135.45, science
+Math Manipulatives Kit, 12, 35.95, math
+Letter Tiles Kit, 12, 23.95, language arts
