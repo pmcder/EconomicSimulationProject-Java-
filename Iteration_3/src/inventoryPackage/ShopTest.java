@@ -35,7 +35,7 @@ public class ShopTest {
 	}
 
 
-	@Test (expected = Exception.class)
+	@Test (expected = NegativeSalesException.class)
 	public void testIncrementSales() {
 		shop.incrementSales(-10.00);
 	}

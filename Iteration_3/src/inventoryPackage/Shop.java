@@ -36,9 +36,14 @@ public class Shop {
 	//Sets selection of items to empty
 	public void clearSelection() {selectedItems = new ArrayList<>();}
 	
-	//Increments sales by given amount
+	/**
+	 * Increments this shop object's sales 
+	 * by the value of the argument passed. 
+	 * Throws new NegativeSalesException if the argument passed is less than 0.
+	 * @param increment value as a double
+	 */
 	public void incrementSales(double increment) {
-		if (increment < 0) throw new IllegalArgumentException();
+		if (increment < 0) throw new NegativeSalesException();
 		else this.sales += increment;
 		}
 	
